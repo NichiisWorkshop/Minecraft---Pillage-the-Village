@@ -1,0 +1,27 @@
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+iconFile="pillagethevillage_icon.png"
+bannerFile="pillagethevillage_logo.png"
+iconBlur=false
+authors="Nichii"
+description='''
+Adds the Mercenary, a passive, tameable Illager that can be armed and ordered to follow you or patrol. Mercenary camps generate in selected Overworld biomes, and the rare Volunteer may appear near a tamed mercenary.
+'''
+
+[[dependencies.${mod_id}]]
+modId="neoforge"
+type="required"
+versionRange="[${neo_version},)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="minecraft"
+type="required"
+versionRange="${minecraft_version_range}"
+ordering="NONE"
+side="BOTH"

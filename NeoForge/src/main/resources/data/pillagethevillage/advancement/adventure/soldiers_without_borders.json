@@ -1,0 +1,25 @@
+{
+  "parent": "pillagethevillage:adventure/hire_a_mercenary",
+  "display": {
+    "icon": { "id": "minecraft:map" },
+    "title": { "translate": "advancements.pillagethevillage.soldiers_without_borders.title" },
+    "description": { "translate": "advancements.pillagethevillage.soldiers_without_borders.description" },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "desert": { "trigger": "minecraft:impossible" },
+    "jungle": { "trigger": "minecraft:impossible" },
+    "plains": { "trigger": "minecraft:impossible" },
+    "savanna": { "trigger": "minecraft:impossible" },
+    "snow": { "trigger": "minecraft:impossible" },
+    "swamp": { "trigger": "minecraft:impossible" },
+    "taiga": { "trigger": "minecraft:impossible" }
+  },
+  "requirements": [
+    ["desert"], ["jungle"], ["plains"], ["savanna"], ["snow"], ["swamp"], ["taiga"]
+  ],
+  "rewards": { "experience": 100 }
+}

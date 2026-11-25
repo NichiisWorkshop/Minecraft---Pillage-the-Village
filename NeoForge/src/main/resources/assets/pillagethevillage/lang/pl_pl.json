@@ -1,0 +1,13 @@
+{
+  "entity.pillagethevillage.mercenary": "Najemnik",
+  "item.pillagethevillage.mercenary_spawn_egg": "Jajo przywołujące najemnika",
+  "gamerule.pillagethevillage.volunteer_spawn": "Pozwalaj na pojawianie się ochotników",
+  "advancements.pillagethevillage.hire_a_mercenary.title": "Nieoczekiwany sojusznik",
+  "advancements.pillagethevillage.hire_a_mercenary.description": "Zatrudnij najemnika za szmaragd",
+  "advancements.pillagethevillage.friendly_fire.title": "Ogień sojuszniczy",
+  "advancements.pillagethevillage.friendly_fire.description": "Spraw, by twój najemnik pokonał Illagera",
+  "advancements.pillagethevillage.soldiers_without_borders.title": "Żołnierze bez granic",
+  "advancements.pillagethevillage.soldiers_without_borders.description": "Zatrudnij najemnika każdego wariantu biomowego",
+  "advancements.pillagethevillage.netherite_gear.title": "Ekwipunek z najwyższej półki",
+  "advancements.pillagethevillage.netherite_gear.description": "Daj swojemu najemnikowi broń z netherytu"
+}

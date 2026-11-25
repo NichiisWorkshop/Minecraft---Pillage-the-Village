@@ -1,0 +1,13 @@
+{
+  "entity.pillagethevillage.mercenary": "Mercenary",
+  "item.pillagethevillage.mercenary_spawn_egg": "Mercenary Spawn Egg",
+  "gamerule.pillagethevillage.volunteer_spawn": "Allow volunteer spawning",
+  "advancements.pillagethevillage.hire_a_mercenary.title": "An Unlikely Ally",
+  "advancements.pillagethevillage.hire_a_mercenary.description": "Hire a mercenary with an emerald",
+  "advancements.pillagethevillage.friendly_fire.title": "Friendly Fire",
+  "advancements.pillagethevillage.friendly_fire.description": "Have your mercenary defeat an Illager",
+  "advancements.pillagethevillage.soldiers_without_borders.title": "Soldiers Without Borders",
+  "advancements.pillagethevillage.soldiers_without_borders.description": "Hire a mercenary of every biome variant",
+  "advancements.pillagethevillage.netherite_gear.title": "Premium Equipment",
+  "advancements.pillagethevillage.netherite_gear.description": "Give a netherite weapon to your mercenary"
+}
