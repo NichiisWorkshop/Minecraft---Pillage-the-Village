@@ -1,0 +1,15 @@
+{
+  "parent": "pillagethevillage:adventure/hire_a_mercenary",
+  "display": {
+    "icon": { "id": "minecraft:emerald" },
+    "title": { "translate": "advancements.pillagethevillage.friendly_fire.title" },
+    "description": { "translate": "advancements.pillagethevillage.friendly_fire.description" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "illager_killed": { "trigger": "minecraft:impossible" }
+  }
+}

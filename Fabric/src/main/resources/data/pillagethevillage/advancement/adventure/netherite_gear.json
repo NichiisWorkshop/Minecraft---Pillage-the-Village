@@ -1,0 +1,15 @@
+{
+  "parent": "pillagethevillage:adventure/hire_a_mercenary",
+  "display": {
+    "icon": { "id": "minecraft:netherite_sword" },
+    "title": { "translate": "advancements.pillagethevillage.netherite_gear.title" },
+    "description": { "translate": "advancements.pillagethevillage.netherite_gear.description" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "netherite_weapon_given": { "trigger": "minecraft:impossible" }
+  }
+}

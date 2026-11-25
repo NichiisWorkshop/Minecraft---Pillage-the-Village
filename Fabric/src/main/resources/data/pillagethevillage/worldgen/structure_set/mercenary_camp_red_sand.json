@@ -1,0 +1,11 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 19380212,
+    "separation": 8,
+    "spacing": 30
+  },
+  "structures": [
+    { "structure": "pillagethevillage:mercenary_camp_red_sand", "weight": 1 }
+  ]
+}

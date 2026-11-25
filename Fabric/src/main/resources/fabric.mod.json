@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "pillagethevillage",
+  "version": "${version}",
+  "name": "Pillage the Village",
+  "description": "A passive, tameable Illager who can be armed and ordered to follow or patrol.",
+  "authors": [
+    "Nichii"
+  ],
+  "license": "LGPL-3.0-only",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.pillagethevillage.PillagetheVillage"
+    ],
+    "client": [
+      "com.example.pillagethevillage.PillagetheVillageClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "icon": "pillagethevillage_icon.png"
+}

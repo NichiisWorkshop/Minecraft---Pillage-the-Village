@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:adventure/root",
+  "display": {
+    "icon": { "id": "minecraft:iron_axe" },
+    "title": { "translate": "advancements.pillagethevillage.hire_a_mercenary.title" },
+    "description": { "translate": "advancements.pillagethevillage.hire_a_mercenary.description" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "hired": { "trigger": "minecraft:impossible" }
+  }
+}
